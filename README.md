@@ -1,0 +1,2 @@
+# minecraft-afk-bot
+AFK SERVER BOT MAKES YOUR MINECRAFT SERVER 24/7
